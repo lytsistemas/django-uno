@@ -48,3 +48,14 @@ This is a simple Django application created as a portfolio project.
 This project is licensed under the MIT License - see the [LICENSE]
 (LICENSE) file for details.
 
+## Screenshots
+
+1. User
+
+![P1](https://github.com/user-attachments/assets/5a15e3cb-b6b8-48a2-9a50-d3e58380d467)
+
+
+2. Admin
+
+![P2](https://github.com/user-attachments/assets/7cf64b14-aaf1-4d4a-8d27-b27ed2af2865)
+
