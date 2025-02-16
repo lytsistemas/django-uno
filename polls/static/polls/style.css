@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+body {
+    background: white url("images/business.jpg") no-repeat;
+    background-size: cover;
+    opacity: 1;
+}
